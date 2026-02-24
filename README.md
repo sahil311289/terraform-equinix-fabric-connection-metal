@@ -3,6 +3,9 @@
 [![Experimental](https://img.shields.io/badge/Stability-Experimental-red.svg)](https://github.com/equinix-labs/standards#about-uniform-standards)
 [![terraform](https://github.com/equinix-labs/terraform-equinix-template/actions/workflows/integration.yaml/badge.svg)](https://github.com/equinix-labs/terraform-equinix-template/actions/workflows/integration.yaml)
 
+> [!WARNING]
+> With the upcoming EoL of Equinix Metal on June 30, 2026, this repo is being archived on February 28, 2026.
+
 `terraform-equinix-fabric-connection-metal` is a minimal Terraform module that utilizes [Terraform providers for Equinix](https://registry.terraform.io/namespaces/equinix) to set up an Equinix Metal shared connection.
 
 A part of Platform Equinix, your Equinix Metal™ infrastructure can connect with other parties, such as public cloud providers, network service providers, or your own colocation cages in Equinix by defining an [Equinix Fabric - software-defined interconnections](https://metal.equinix.com/developers/docs/equinix-interconnect/introduction/)
